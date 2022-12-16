@@ -12,7 +12,7 @@ export default function List() {
           <div className="listSearch">
             <h1 className="lsTittle">Search</h1>
           </div>
-          <div className="listResult"></div>
+          <div className="listResult">to be searched</div>
         </div>
       </div>
     </div>
