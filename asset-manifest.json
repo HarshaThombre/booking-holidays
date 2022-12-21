@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booking-holidays/static/css/main.9398442e.css",
+    "main.js": "/booking-holidays/static/js/main.fa0fea50.js",
+    "static/js/787.28cb0dcd.chunk.js": "/booking-holidays/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/booking-holidays/index.html",
+    "main.9398442e.css.map": "/booking-holidays/static/css/main.9398442e.css.map",
+    "main.fa0fea50.js.map": "/booking-holidays/static/js/main.fa0fea50.js.map",
+    "787.28cb0dcd.chunk.js.map": "/booking-holidays/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9398442e.css",
+    "static/js/main.fa0fea50.js"
+  ]
+}
