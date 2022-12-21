@@ -16,7 +16,7 @@ function App() {
       {/* <h3> hello world</h3> */}
     <BrowserRouter>
     <Routes>
-   <Route path = "/" element ={<Home/>}/>
+   <Route path = "/booking-holidays" element ={<Home/>}/>
    <Route path = "/List" element ={<List/>}/>\
    <Route path = "/Hotels" element ={<Hotels/>}/>
 
